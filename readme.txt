@@ -42,6 +42,7 @@ __ 01-3 마켓과 머신러닝 ▶️마켓을 예로 들어 머신러닝을 설
 ____ 생선 분류 문제
 ____ 첫 번째 머신러닝 프로그램
 ____ [문제해결 과정] 도미와 빙어 분류
+	  https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/1-3.ipynb#scrollTo=3pQ2JVooP-y5
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
