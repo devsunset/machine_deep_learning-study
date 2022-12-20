@@ -45,7 +45,7 @@ ____ [문제해결 과정] 도미와 빙어 분류
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
-	  https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/1-3.ipynb#scrollTo=3pQ2JVooP-y5
+ https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/1-3.ipynb#scrollTo=3pQ2JVooP-y5
 
 Chapter 02 데이터 다루기 ▶️수상한 생선을 조심하라!
 __ 02-1 훈련 세트와 테스트 세트 ▶️ 모델을 훈련 시키는 훈련 세트와 검증하는 테스트 세트로 나누어 학습하기 
@@ -58,6 +58,7 @@ ____ [문제해결 과정] 훈련 모델 평가
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/2-1.ipynb
 
 __ 02-2 데이터 전처리 ▶️정교한 결과 도출을 위한 데이터 전처리 알아보기
 ____ 넘파이로 데이터 준비하기
