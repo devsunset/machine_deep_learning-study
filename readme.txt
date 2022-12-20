@@ -70,6 +70,7 @@ ____ [문제해결 과정] 스케일이 다른 특성 처리
 ____ 키워드로 끝나는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/2-2.ipynb
 
 Chapter 03 회귀 알고리즘과 모델 규제 ▶️농어의 무게를 예측하라!
 __ 03-1 k-최근접 이웃 회귀 ▶️회귀 문제를 이해하고 k-최근접 이웃 알고리즘으로 풀어 보기
