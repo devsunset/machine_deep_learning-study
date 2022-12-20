@@ -82,6 +82,7 @@ ____ [문제해결 과정] 회귀 문제 다루기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/3-1.ipynb
 
 __ 03-2 선형 회귀 ▶️ 사이킷런으로 선형 회귀 모델 만들어 보기
 ____ k-최근접 이웃의 한계 
@@ -91,6 +92,7 @@ ____ [문제해결 과정] 선형 회귀로 훈련 세트 범위 밖의 샘플 �
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/3-2.ipynb
 
 __ 03-3 특성 공학과 규제 ▶️특성 공학과 규제 알아보기
 ____ 다중 회귀
@@ -104,6 +106,7 @@ ____ [문제해결 과정] 모델의 과대적합을 제어하기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/3-3.ipynb#scrollTo=c91qVYoPLz1H
 
 Chapter 04 다양한 분류 알고리즘 ▶️럭키백의 확률을 계산하라!
 __ 04-1 로지스틱 회귀 ▶️로지스틱 회귀 알고리즘을 배우고 이진 분류 문제에서 클래스 확률 예측하기 
