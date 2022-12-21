@@ -7,9 +7,20 @@
 ########################################################
 ### MACHINE_DEEP_LEARNING
 
+https://developers.google.com/machine-learning/foundational-courses
+https://ko.d2l.ai/index.html
+https://www.tensorflow.org/?hl=ko
+https://pytorch.org/
+https://pytorch.kr/?_gl=1*13rtmtq*_ga*ODg4NjU2MTgxLjE2NzE1MDA1NTk.*_ga_LZRD6GXDLF*MTY3MTUwMDU1OS4xLjAuMTY3MTUwMDU1OS42MC4wLjA.
+https://keras.io/
+https://keras.io/ko/
+https://www.kaggle.com/
+https://scikit-learn.org/stable/
+https://xgboost.ai/
 
 ########################################################
 ### Reference
+https://tensorflow.blog/hg-mldl/
 https://hongong.hanbit.co.kr/혼자-공부하는-머신러닝-딥러닝
 https://www.youtube.com/playlist?list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX
 https://github.com/rickiepark/hg-mldl
