@@ -31,6 +31,7 @@ https://colab.research.google.com/
 ### MACHINE_DEEP_LEARNING Guide
 
 # 목차
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/
 
  Chapter 01 나의 첫 머신러닝 ▶️이 생선의 이름은 무엇인가요?
 __ 01-1 인공지능과 머신러닝, 딥러닝 ▶️ 인공지능과 머신러닝, 딥러닝은 무엇일까요?
@@ -117,7 +118,7 @@ ____ [문제해결 과정] 모델의 과대적합을 제어하기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
-https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/3-3.ipynb#scrollTo=c91qVYoPLz1H
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/3-3.ipynb
 
 Chapter 04 다양한 분류 알고리즘 ▶️럭키백의 확률을 계산하라!
 __ 04-1 로지스틱 회귀 ▶️로지스틱 회귀 알고리즘을 배우고 이진 분류 문제에서 클래스 확률 예측하기 
@@ -126,7 +127,8 @@ ____ 로지스틱 회귀
 ____ [문제해결 과정] 로지스틱 회귀로 확률 예측
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
-____ 확인 문제
+____ 확인 문제x
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/4-1.ipynb
 
 __ 04-2 확률적 경사 하강법 ▶️경사 하강법 알고리즘을 이해하고 대량의 데이터에서 분류 모델을 훈련하기
 ____ 점진적인 학습
@@ -136,6 +138,7 @@ ____ [문제해결 과정] 점진적 학습을 위한 확률적 경사 하강법
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/4-2.ipynb
 
 Chapter 05 트리 알고리즘 ▶️화이트 와인을 찾아라!
 __ 05-1 결정 트리 ▶️결정 트리 알고리즘을 사용해 새로운 분류 문제 다루기
@@ -145,7 +148,7 @@ ____ [문제해결 과정] 이해하기 쉬운 결정 트리 모델 
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
-
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/5-1.ipynb
 __ 05-2 교차 검증과 그리드 서치 ▶️검증 세트가 필요한 이유를 이해하고 교차 검증해 보기
 ____ 검증 세트
 ____ 교차 검증
@@ -154,6 +157,7 @@ ____ [문제해결 과정] 최적의 모델을 위한 하이퍼파라미터 탐�
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/5-2.ipynb
 
 __ 05-3 트리의 앙상블 ▶️ 앙상블 학습을 알고 실습해 보기
 ____ 정형 데이터와 비정형 데이터
@@ -165,6 +169,7 @@ ____ [문제해결 과정] 앙상블 학습을 통한 성능 향상
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/5-3.ipynb
 
 Chapter 06 비지도 학습 ▶️비슷한 과일끼리 모으자!
 __ 06-1 군집 알고리즘 ▶️ 흑백 이미지 분류 방법과 비지도 학습, 군집 알고리즘 이해하기
@@ -174,6 +179,7 @@ ____ 평균값과 가까운 사진 고르기
 ____ [문제해결 과정] 비슷한 샘플끼리 모으기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/6-1.ipynb
 
 __ 06-2 k-평균 ▶️k-평균 알고리즘 작동 방식을 이해하고 비지도 학습 모델 만들기
 ____ k-평균 알고리즘 소개
@@ -184,6 +190,7 @@ ____ [문제해결 과정] 과일을 자동으로 분류하기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/6-2.ipynb
 
 __ 06-3 주성분 분석 ▶️차원을 알고 차원 축소 알고리즘 PC 모델 만들기 
 ____ 차원과 차원 축소
@@ -196,6 +203,7 @@ ____ [문제해결 과정] 주성분 분석으로 차원 축소
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/6-3.ipynb
 
 Chapter 07 딥러닝을 시작합니다 ▶️패션 럭키백을 판매합니다!
 __ 07-1 인공 신경망 ▶️ 텐서플로로 간단한 인공 신경망 모델 만들기
@@ -208,6 +216,7 @@ ____ [문제해결 과정] 인공 신경망 모델로 성능 향상
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/7-1.ipynb
 
 __ 07-2 심층 신경망 ▶️인공 신경망에 층을 추가하여 심층 신경망 만들어 보기
 ____ 2개의 층
@@ -219,6 +228,7 @@ ____ [문제해결 과정] 케라스 API를 활용한 심층 신경망
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/7-2.ipynb
 
 __ 07-3 신경망 모델 훈련 ▶️인경 신경망 모델 훈련의 모범 사례 학습하기 
 ____ 손실 곡선
@@ -230,6 +240,7 @@ ____ [문제해결 과정] 최상의 신경망 모델 얻기
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/7-3.ipynb
 
 Chapter 08 이미지를 위한 인공 신경망 ▶️패션 럭키백의 정확도를 높입니다!
 __ 08-1 합성곱 신경망의 구성 요소 ▶️합성곱 신경망의 개념과 동작 원리를 배우고 간단한 실습하기 
@@ -248,6 +259,7 @@ ____ [문제해결 과정] 케라스 API로 합성곱 신경망 구현
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/8-2.ipynb
 
 __ 08-3 합성곱 신경망의 시각화 ▶️신경망이 이미지에서 학습하는 게 무엇인지 이해하기
 ____ 가중치 시각화
@@ -258,6 +270,7 @@ ____ 시각화로 이해하는 합성곱 신경망
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/8-3.ipynb
 
 Chapter 09 텍스트를 위한 인공 신경망 ▶️한빛 마켓의 댓글을 분석하라!
 __ 09-1 순차 데이터와 순환 신경망 ▶️순차 데이터의 특징과 개념 이해하기 
@@ -277,6 +290,7 @@ ____ [문제해결 과정] 케라스 API로 순환 신경망 구현
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/9-2.ipynb
 
 __ 09-3 LSTM과 GRU 셀 ▶️순환 신경망의 중요 기술을 사용해 모델 만들어 보기
 ____ LSTM 구조
@@ -289,5 +303,6 @@ ____ [문제해결 과정] LSTM과 GRU 셀로 훈련
 ____ 키워드로 끝내는 핵심 포인트
 ____ 핵심 패키지와 함수
 ____ 확인 문제
+https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/9-3.ipynb
 
  
